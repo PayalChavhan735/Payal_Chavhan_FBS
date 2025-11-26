@@ -8,7 +8,7 @@ int allowances;
      {
          System.out.println("Admin default constructor");
 	 id=11;
-	 name="Samiksha";
+	 name="Payal";
 	 salary=3500000;
          allowances=80;
      }
@@ -92,4 +92,5 @@ System.out.println("a2 Salary is Greater");
 }
 
 }
+
 }
